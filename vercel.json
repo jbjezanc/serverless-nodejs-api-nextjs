@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/leads",
-      "destination": "https://nj7kscbafb.execute-api.eu-central-1.amazonaws.com/leads"
+      "destination": "https://nj7kscbafb.execute-api.eu-central-1.amazonaws.com/api/leads"
     }
   ]
 }
